@@ -2,12 +2,7 @@
 
 This repository contains a collection of assignments completed using **React**. Each assignment demonstrates different aspects of React development, including component-based architecture, state management, and routing.
 
-## Assignments Overview
 
-alot of assignments
-
-
-(Replace the placeholders with specific details about each assignment.)
 
 ## Project Setup
 
